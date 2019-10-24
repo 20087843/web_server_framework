@@ -12,9 +12,7 @@
 
 # 简介
 
-> 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有:beers:
-
-> 地址：https://github.com/hope-for/hope-boot 主语言[java] 欢迎star
+> 一款现代化的脚手架项目。
 ------------------------------
 
 # 文档
@@ -27,12 +25,6 @@
 
 使用遇到的问题：[https://github.com/hope-for/hope-boot/wiki#5.](https://github.com/hope-for/hope-boot/wiki/5.%E4%BD%BF%E7%94%A8hope-boot%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
 
-# 捐赠
-
->请作者吃个肉夹馍 :)
-
-![](https://i.loli.net/2018/12/31/5c29d3b18826d.png)
-
 # My link：
 
 - [开发作者：低调小熊猫-#个人博客：读万卷书，行万里路，赚很多钱🥚](http://ilovey.live)
@@ -42,7 +34,3 @@
 - [开源组织](https://github.com/hope-for) 
 - [联系邮箱：](https://github.com/hope-for/hope-boot)java@aodeng.cc
 - [熊猫哥星球基地](https://t.zsxq.com/rn2jUbY)
-
-<p align="center">
-  <a href="https://t.zsxq.com/rn2jUbY"><img alt="Author" src="http://image.ilovey.live/image/ea62406ccc287ab3277672d1d73ea98a.png"/></a>
-</p>
