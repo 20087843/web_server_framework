@@ -2,7 +2,7 @@
 
 # 简介
 
-> 一款现代化的脚手架项目。
+> 一款现代化的脚手架项目。整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。
 ------------------------------
 
 # 文档
